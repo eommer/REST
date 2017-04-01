@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<proxies>
+<proxy>
+<active/>
+<protocol>http</protocol>
+<port>3128</port>
+<host>proxy.univ-lemans.fr</host>
+<id/>
+</proxy>
+<proxy>
+<active/>
+<protocol>https</protocol>
+<port>3128</port>
+<host>proxy.univ-lemans.fr</host>
+<id/>
+</proxy>
+</proxies>
+</settings>
